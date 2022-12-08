@@ -1,0 +1,12 @@
+2022/12/08-00:39:48.565 4534 Reusing MANIFEST D:\Paulo definitiva\programação\wa_robot\tokens\whatsbot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/08-00:39:48.566 4534 Recovering log #6
+2022/12/08-00:39:48.693 4534 Reusing old log D:\Paulo definitiva\programação\wa_robot\tokens\whatsbot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000006.log 
+2022/12/08-00:40:03.736 1cbc Level-0 table #11: started
+2022/12/08-00:40:03.874 1cbc Level-0 table #11: 1186089 bytes OK
+2022/12/08-00:40:03.920 1cbc Delete type=0 #6
+2022/12/08-00:40:05.640 4534 Compacting 1@1 + 1@2 files
+2022/12/08-00:40:05.864 4534 Generated table #12@1: 27754 keys, 1421761 bytes
+2022/12/08-00:40:05.864 4534 Compacted 1@1 + 1@2 files => 1421761 bytes
+2022/12/08-00:40:05.930 4534 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/12/08-00:40:05.930 4534 Delete type=2 #8
+2022/12/08-00:40:05.930 4534 Delete type=2 #11
