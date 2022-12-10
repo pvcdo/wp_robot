@@ -1,14 +1,3 @@
-2022/12/08-18:55:43.607 4004 Reusing MANIFEST D:\Paulo definitiva\programação\wa_robot\tokens\whatsbot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/08-18:55:43.608 4004 Recovering log #33
-2022/12/08-18:55:43.724 4004 Reusing old log D:\Paulo definitiva\programação\wa_robot\tokens\whatsbot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000033.log 
-2022/12/08-18:55:56.112 2e70 Level-0 table #39: started
-2022/12/08-18:55:56.278 2e70 Level-0 table #39: 1286136 bytes OK
-2022/12/08-18:55:56.319 2e70 Delete type=0 #33
-2022/12/08-18:55:57.439 2ed8 Compacting 1@1 + 2@2 files
-2022/12/08-18:55:57.972 2ed8 Generated table #40@1: 36842 keys, 2251946 bytes
-2022/12/08-18:55:58.128 2ed8 Generated table #41@1: 20192 keys, 815129 bytes
-2022/12/08-18:55:58.129 2ed8 Compacted 1@1 + 2@2 files => 3067075 bytes
-2022/12/08-18:55:58.172 2ed8 compacted to: files[ 0 0 2 0 0 0 0 ]
-2022/12/08-18:55:58.173 2ed8 Delete type=2 #35
-2022/12/08-18:55:58.174 2ed8 Delete type=2 #36
-2022/12/08-18:55:58.175 2ed8 Delete type=2 #39
+2022/12/10-00:30:51.761 3280 Reusing MANIFEST D:\Paulo definitiva\programação\wa_robot\tokens\whatsbot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/10-00:30:51.762 3280 Recovering log #96
+2022/12/10-00:30:51.779 3280 Reusing old log D:\Paulo definitiva\programação\wa_robot\tokens\whatsbot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000096.log 
