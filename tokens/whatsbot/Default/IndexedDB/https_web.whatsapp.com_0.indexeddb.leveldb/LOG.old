@@ -1,3 +1,16 @@
-2022/12/10-00:30:51.761 3280 Reusing MANIFEST D:\Paulo definitiva\programação\wa_robot\tokens\whatsbot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/10-00:30:51.762 3280 Recovering log #96
-2022/12/10-00:30:51.779 3280 Reusing old log D:\Paulo definitiva\programação\wa_robot\tokens\whatsbot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000096.log 
+2022/12/13-19:27:39.431 500 Reusing MANIFEST D:\Paulo definitiva\programação\wa_robot\tokens\whatsbot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/13-19:27:39.432 500 Recovering log #102
+2022/12/13-19:27:39.464 500 Reusing old log D:\Paulo definitiva\programação\wa_robot\tokens\whatsbot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000102.log 
+2022/12/13-19:28:10.585 e34 Level-0 table #109: started
+2022/12/13-19:28:10.736 e34 Level-0 table #109: 1200883 bytes OK
+2022/12/13-19:28:10.790 e34 Delete type=0 #102
+2022/12/13-19:28:10.990 e34 Compacting 1@1 + 3@2 files
+2022/12/13-19:28:11.395 e34 Generated table #110@1: 29780 keys, 2254424 bytes
+2022/12/13-19:28:11.658 e34 Generated table #111@1: 37540 keys, 2268084 bytes
+2022/12/13-19:28:11.901 e34 Generated table #112@1: 41497 keys, 1608778 bytes
+2022/12/13-19:28:11.901 e34 Compacted 1@1 + 3@2 files => 6131286 bytes
+2022/12/13-19:28:11.924 e34 compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/12/13-19:28:11.925 e34 Delete type=2 #104
+2022/12/13-19:28:11.925 e34 Delete type=2 #105
+2022/12/13-19:28:11.925 e34 Delete type=2 #106
+2022/12/13-19:28:11.925 e34 Delete type=2 #109
